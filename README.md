@@ -1,5 +1,8 @@
 # LeftySims<br/>
 Lefty Sims Mods<br/>
+I created many different objects for The Sims since around 2005.<br/>
+<br/>
+On 6th July 2007 I started Yahoo Groups and Geocities Page for my creations, called Lefty Sims, it was my place to share my creations for the Sims with the world, gaining a small following and releasing various modifications and hacks for the game. Influenced by C&C Enterprises and many other "vanilla +" hacks.<br/>
 <br/>
 ## Sims<br/>
 Sims Cloning policy:<br/>
